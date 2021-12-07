@@ -11,6 +11,7 @@ body {
   margin: 0;
 }
 
+
 .container {
   max-width: 1280px;
   width: 100%;
@@ -25,9 +26,10 @@ header {
 
 .nav-link {
   text-transform: uppercase;
-  font-weight: 800;
+  font-weight: 600;
   color: #777;
 }
+
 
 .nav-link + .nav-link {
   margin-left: 20px;
@@ -50,8 +52,10 @@ h1 {
 }
 
 .footer {
+  
   background-color: #c2185b;
   padding: 30px 30px;
+  bleed: Pass through;
 
 }
 
